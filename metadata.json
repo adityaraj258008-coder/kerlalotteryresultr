@@ -1,0 +1,8 @@
+{
+  "name": "Kerala Lottery Result",
+  "description": "Independent Kerala Lottery Result information portal to check lottery draw results, prize tiers, mobile number ticket lookups, and informational winner certificates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
